@@ -39,5 +39,5 @@ I'm an enthusiastic programmer with a flair for database management, consistentl
 
 ## Connect with Me
 
-- **LinkedIn:** [LinkedIn Profile]()
+- **LinkedIn:** (https://www.linkedin.com/in/mary-rose-galon-3060b62a5/)
 - **Email:** 4.maryrosegallegogalon@gmail.com
